@@ -1,3 +1,3 @@
 # Practice
-I am learnig git and github
-I am learning git too
+miracle iiis good
+I am learning also
